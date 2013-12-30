@@ -141,6 +141,7 @@
     <Content Include="Assets\grammer\Active Or Passive Voice\Examples.html" />
     <Content Include="Assets\grammer\Active Or Passive Voice\Introduction.html" />
     <Content Include="Assets\grammer\Active Or Passive Voice\Rules.html" />
+    <Content Include="Assets\grammer\style.css" />
     <Content Include="Assets\grammer\Adjectives\Adjectives.html" />
     <Content Include="Assets\grammer\Adjectives\Comparison of Adjectives.html" />
     <Content Include="Assets\grammer\Adjectives\The + Superlative.html" />
@@ -253,7 +254,6 @@
     <Content Include="Assets\p2.png" />
     <Content Include="Assets\passive.png" />
     <Content Include="Assets\pot.jpg" />
-    <Content Include="Assets\style.css" />
     <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

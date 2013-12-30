@@ -36,6 +36,7 @@ namespace EnglishGrammar
         {
             Common common = new Common();
             string data = common.ReadFile("Data/Category.txt");
+            
             lstCategory = JsonConvert.DeserializeObject<List<Category>>(data);
         }
 

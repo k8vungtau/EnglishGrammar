@@ -35,12 +35,15 @@ namespace EnglishGrammar
         {
             PanoramaItem panoItem = new PanoramaItem();
             WebBrowser webBrower = new WebBrowser();
+            Common common = new Common();
+            common.SaveFilesToIsoStore(category.pageURL);
+
             for(int i = 0; i < category.pageName.Count; i++) {
                 panoItem = new PanoramaItem();
                 panoItem.Header = category.pageName[i];
                 PageView.Items.Add(panoItem);
                 webBrower = new WebBrowser();
-                webBrower.Navigate(new Uri(category.pageURL[i], UriKind.Absolute));
+                webBrower.Navigate(new Uri(category.pageURL[i], UriKind.Relative));
                 panoItem.Content = webBrower;
             }
             //panoItem.Header = 
