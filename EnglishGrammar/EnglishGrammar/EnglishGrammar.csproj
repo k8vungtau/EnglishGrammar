@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A13364C2-C4F6-4D11-A40E-8EDD4FF310CA}</ProjectGuid>
+    <ProjectTypeGuids>{C089C8C0-30E0-4E22-80C0-CE093F111A43};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EnglishGrammar</RootNamespace>
+    <AssemblyName>EnglishGrammar</AssemblyName>
+    <TargetFrameworkIdentifier>WindowsPhone</TargetFrameworkIdentifier>
+    <TargetFrameworkVersion>v8.0</TargetFrameworkVersion>
+    <SilverlightVersion>$(TargetFrameworkVersion)</SilverlightVersion>
+    <SilverlightApplication>true</SilverlightApplication>
+    <SupportedCultures>
+    </SupportedCultures>
+    <XapOutputs>true</XapOutputs>
+    <GenerateSilverlightManifest>true</GenerateSilverlightManifest>
+    <XapFilename>EnglishGrammar_$(Configuration)_$(Platform).xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <SilverlightAppEntry>EnglishGrammar.App</SilverlightAppEntry>
+    <ValidateXaml>true</ValidateXaml>
+    <MinimumVisualStudioVersion>11.0</MinimumVisualStudioVersion>
+    <ThrowErrorsInValidation>true</ThrowErrorsInValidation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\x86\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\x86\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|ARM' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Bin\ARM\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|ARM' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Bin\ARM\Release</OutputPath>
+    <DefineConstants>TRACE;SILVERLIGHT;WINDOWS_PHONE</DefineConstants>
+    <NoStdLib>true</NoStdLib>
+    <NoConfig>true</NoConfig>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Category.cs" />
+    <Compile Include="CategoryDetail.xaml.cs">
+      <DependentUpon>CategoryDetail.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Common.cs" />
+    <Compile Include="LocalizedStrings.cs" />
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resources\AppResources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AppResources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SingleTonData.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </ApplicationDefinition>
+    <Page Include="CategoryDetail.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\grammer\.DS_Store" />
+    <None Include="packages.config" />
+    <None Include="Properties\AppManifest.xml" />
+    <None Include="Properties\WMAppManifest.xml">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\active.png" />
+    <Content Include="Assets\AlignmentGrid.png" />
+    <Content Include="Assets\ApplicationIcon.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\grammer\Active Or Passive Voice\Examples.html" />
+    <Content Include="Assets\grammer\Active Or Passive Voice\Introduction.html" />
+    <Content Include="Assets\grammer\Active Or Passive Voice\Rules.html" />
+    <Content Include="Assets\grammer\Adjectives\Adjectives.html" />
+    <Content Include="Assets\grammer\Adjectives\Comparison of Adjectives.html" />
+    <Content Include="Assets\grammer\Adjectives\The + Superlative.html" />
+    <Content Include="Assets\grammer\Adverbs\Adverbs of Certainty.html" />
+    <Content Include="Assets\grammer\Adverbs\Form.html" />
+    <Content Include="Assets\grammer\Adverbs\Function.html" />
+    <Content Include="Assets\grammer\Adverbs\Position.html" />
+    <Content Include="Assets\grammer\Articles\Introduction.html" />
+    <Content Include="Assets\grammer\Articles\Usage.html" />
+    <Content Include="Assets\grammer\Auxiliary Verbs\Introduction.html" />
+    <Content Include="Assets\grammer\Auxiliary Verbs\Statements and Questions.html" />
+    <Content Include="Assets\grammer\Auxiliary Verbs\usage.html" />
+    <Content Include="Assets\grammer\Common English Errors\Common Grammer Mistakes.html" />
+    <Content Include="Assets\grammer\Common English Errors\Corporate Affairs.html" />
+    <Content Include="Assets\grammer\Common English Errors\Food Affairs.html" />
+    <Content Include="Assets\grammer\Common English Errors\Home Affairs.html" />
+    <Content Include="Assets\grammer\Common English Errors\Love Affairs.html" />
+    <Content Include="Assets\grammer\Common English Errors\Social Affairs.html" />
+    <Content Include="Assets\grammer\Conditionals\Introduction.html" />
+    <Content Include="Assets\grammer\Conditionals\The First Conditional.html" />
+    <Content Include="Assets\grammer\Conditionals\The Second Conditional.html" />
+    <Content Include="Assets\grammer\Conditionals\The Third Conditional.html" />
+    <Content Include="Assets\grammer\Conditionals\The Zero Conditional.html" />
+    <Content Include="Assets\grammer\Conjunctions\Conjunctions.html" />
+    <Content Include="Assets\grammer\Conjunctions\Coordinating conjunctions.html" />
+    <Content Include="Assets\grammer\Conjunctions\Subordinating conjunctions.html" />
+    <Content Include="Assets\grammer\Determiners\Introduction.html" />
+    <Content Include="Assets\grammer\Determiners\Types.html" />
+    <Content Include="Assets\grammer\Had better\Had better.html" />
+    <Content Include="Assets\grammer\Idioms\Examples.html" />
+    <Content Include="Assets\grammer\Idioms\Introduction.html" />
+    <Content Include="Assets\grammer\Interjections\Interjections.html" />
+    <Content Include="Assets\grammer\Introduction\Introduction.html" />
+    <Content Include="Assets\grammer\Nouns\Compund Nouns.html" />
+    <Content Include="Assets\grammer\Nouns\Countable and Uncountable Nouns.html" />
+    <Content Include="Assets\grammer\Nouns\Nouns.html" />
+    <Content Include="Assets\grammer\Nouns\Proper Nouns and Common Nouns.html" />
+    <Content Include="Assets\grammer\Phrases\Introduction.html" />
+    <Content Include="Assets\grammer\Phrases\Types Of Phrases Cont%27d.html" />
+    <Content Include="Assets\grammer\Phrases\Types Of Phrases.html" />
+    <Content Include="Assets\grammer\Plurals\Plurals.html" />
+    <Content Include="Assets\grammer\Prepositions\preposition list.html" />
+    <Content Include="Assets\grammer\Prepositions\preposition rule.html" />
+    <Content Include="Assets\grammer\Prepositions\prepositions.html" />
+    <Content Include="Assets\grammer\Pronouns\Personal Pronouns.html" />
+    <Content Include="Assets\grammer\Pronouns\Pronoun case.html" />
+    <Content Include="Assets\grammer\Pronouns\Pronouns.html" />
+    <Content Include="Assets\grammer\Quantifiers\1. Quantifiers Introduction.html" />
+    <Content Include="Assets\grammer\Quantifiers\2. Quantifiers that express attitude.html" />
+    <Content Include="Assets\grammer\Quantifiers\3. Comparative quantifiers.html" />
+    <Content Include="Assets\grammer\Question Tags\Example.html" />
+    <Content Include="Assets\grammer\Question Tags\Introduction.html" />
+    <Content Include="Assets\grammer\Question Tags\Rules.html" />
+    <Content Include="Assets\grammer\Reported Speech\Introduction.html" />
+    <Content Include="Assets\grammer\Reported Speech\Reported Orders.html" />
+    <Content Include="Assets\grammer\Reported Speech\Reported Questions.html" />
+    <Content Include="Assets\grammer\Reported Speech\Reported Statements.html" />
+    <Content Include="Assets\grammer\Reported Speech\Time Expressions.html" />
+    <Content Include="Assets\grammer\Tenses\Future tense\Future continuous tense.html" />
+    <Content Include="Assets\grammer\Tenses\Future tense\Future perfect continuous tense.html" />
+    <Content Include="Assets\grammer\Tenses\Future tense\Future perfect tense.html" />
+    <Content Include="Assets\grammer\Tenses\Future tense\Simple future tense.html" />
+    <Content Include="Assets\grammer\Tenses\Introduction\Tenses.html" />
+    <Content Include="Assets\grammer\Tenses\Past tense\Past continuous tense.html" />
+    <Content Include="Assets\grammer\Tenses\Past tense\Past perfect continuous.html" />
+    <Content Include="Assets\grammer\Tenses\Past tense\Past perfect tense.html" />
+    <Content Include="Assets\grammer\Tenses\Past tense\Simple past.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\For change.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\For continuing situation.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\For experience.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\Present continuous.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\Present perfect continuous tense.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\Present perfect tense for change.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\Present perfect tense for continuing situation.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\Present perfect tense for experience.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\Present perfect tense.html" />
+    <Content Include="Assets\grammer\Tenses\Present tense\Simple present tense.html" />
+    <Content Include="Assets\grammer\Trial Questions\Active Or Passive Voice Examples\passive active voice.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Adjective Examples\adjective.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Adverb Examples\adverbs.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Articles Examples\articles.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Auxillary Verbs Examples\auxillary verbs.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Conjunction Examples\conjections.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Determiners Examples\Determiners.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Idioms Examples\idioms.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Interjection Examples\Interjunction.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Noun Examples\Noun.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Phrases Examples\phrase.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Preposition Examples\Prepositions.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Pronoun Examples\pronouns.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Question Tag Examples\question tag.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Relative Clauses Examples\Relative Clause.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Reported Speech Examples\reported speech.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Tenses Examples\Tenses.txt" />
+    <Content Include="Assets\grammer\Trial Questions\Verb Examples\verbs.txt" />
+    <Content Include="Assets\grammer\Type of sentence\1. Type of sentence.html" />
+    <Content Include="Assets\grammer\Type of sentence\2. Proper sentence construction.html" />
+    <Content Include="Assets\grammer\Type of sentence\3. Modifer.html" />
+    <Content Include="Assets\grammer\Type of sentence\4. Direct Object and Indirect Object .html" />
+    <Content Include="Assets\grammer\Type of sentence\5. Common errors in constructing sentence.html" />
+    <Content Include="Assets\grammer\Use of Shall\Shall.html" />
+    <Content Include="Assets\grammer\Use of Should\Should.html" />
+    <Content Include="Assets\grammer\Use of Wish\1. Use of Wish.html" />
+    <Content Include="Assets\grammer\Use of Wish\2. Use of Wish Continued.html" />
+    <Content Include="Assets\grammer\Used to\Used to.html" />
+    <Content Include="Assets\grammer\Verbs\Helping verbs.html" />
+    <Content Include="Assets\grammer\Verbs\Main verbs.html" />
+    <Content Include="Assets\grammer\Verbs\What are verbs.html" />
+    <Content Include="Assets\p1.png" />
+    <Content Include="Assets\p2.png" />
+    <Content Include="Assets\passive.png" />
+    <Content Include="Assets\pot.jpg" />
+    <Content Include="Assets\style.css" />
+    <Content Include="Assets\Tiles\FlipCycleTileLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileMedium.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\FlipCycleTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileMediumLarge.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Tiles\IconicTileSmall.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Updates.html" />
+    <Content Include="Data\Category.txt" />
+    <Content Include="Assets\TitleIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\AppResources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AppResources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Phone.Controls, Version=8.0.0.0, Culture=neutral, PublicKeyToken=24eec0d8c86cda1e, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.8\lib\portable-net45+wp80+win8\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).$(TargetFrameworkVersion).Overrides.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\$(TargetFrameworkIdentifier)\$(TargetFrameworkVersion)\Microsoft.$(TargetFrameworkIdentifier).CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions />
+</Project>

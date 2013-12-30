@@ -1,0 +1,144 @@
+[{"Mainhd":"In the questions below the sentences have been given in Active/Passive voice. From the given alternatives, choose the one which best expresses the given sentence in Passive/Active voice.", 
+"Sub":   
+
+
+
+[
+	{                     
+		"quetn": "After driving professor Kumar to the museum she dropped him at his hotel.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"After being driven to the museum, Professor Kumar was dropped at his hotel.",
+        "2":"Professor Kumar was being driven dropped at his hotel.",
+        "3":"After she had driven Professor Kumar to the museum she had dropped him at his hotel.",
+          "4":"After she was driven Professor Kumar to the museum she had dropped him at his hotel."
+	},
+	{                     
+		"quetn": "I remember my sister taking me to the museum.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"I remember I was taken to the museum by my sister.",
+        "2":"I remember being taken to the museum by my sister.",
+        "3":"I remember myself being taken to the museum by my sister.",
+          "4":"I remember taken to the museum by my sister."
+	},
+{                     
+		"quetn": "Who is creating this mess?",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"Who has been created this mess?",
+        "2":"By whom has this mess been created?",
+        "3":"By whom this mess is being created?",
+          "4":"By whom is this mess being created?"
+	},
+{                     
+		"quetn": "They greet me cheerfully every morning.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"Every morning I was greeted cheerfully.",
+        "2":"I am greeted cheerfully by them every morning.",
+        "3":"I am being greeted cheerfully by them every morning.",
+          "4":"Cheerful greeting is done by them every morning to me."
+	},
+{                     
+		"quetn": "Darjeeling grows tea.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"Tea is being grown in Darjeeling.",
+        "2":"Let the tea be grown in Darjeeling.",
+        "3":"Tea is grown in Darjeeling.",
+          "4":"Tea grows in Darjeeling."
+	},
+{                     
+		"quetn": "They have built a perfect dam across the river.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"Across the river a perfect dam was built.",
+        "2":"A perfect dam has been built by them across the river.",
+        "3":"A perfect dam should have been built by them.",
+          "4":"Across the river was a perfect dam."
+	},
+{                     
+		"quetn": "Do you imitate others?",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"Are others being imitated by you?",
+        "2":"Are others imitated by you?",
+        "3":"	Have others being imitated by you?",
+          "4":"Were others being imitated by you?"
+	},
+{                     
+		"quetn": "You need to clean your shoes properly.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"Your shoes are needed to clean properly.",
+        "2":"You are needed to clean your shoes properly.",
+        "3":"Your shoes need to be cleaned properly.",
+          "4":"Your shoes are needed by you to clean properly."
+	},
+{                     
+		"quetn": "He is said to be very rich.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"He said he is very rich.",
+        "2":"People say he is very rich.",
+        "3":"He said it is very rich.",
+          "4":"People say it is very rich."
+	},
+{                     
+		"quetn": "The invigilator was reading out the instructions.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"The instructions were read by the invigilator.",
+        "2":"The instructions were being read out by the invigilator.",
+        "3":"The instructions had been read out by the invigilator.",
+          "4":"The instructions had been read by the invigilator."
+	},
+{                     
+		"quetn": "You can play with these kittens quite safely.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"These kittens can played with quite safely.",
+        "2":"These kittens can play with you quite safely.",
+        "3":"These kittens can be played with you quite safely.",
+          "4":"These kittens can be played with quite safely."
+	},
+{                     
+		"quetn": "A child could not have done this mischief.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"This mischief could not be done by a child.",
+        "2":"This mischief could not been done by a child.",
+        "3":"This mischief could not have been done by a child.",
+          "4":"This mischief a child could not have been done."
+	},
+{                     
+		"quetn": "James Watt discovered the energy of steam.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"The energy of steam discovered James Watt.",
+        "2":"The energy of steam was discovered by James Watt.",
+        "3":"James Watt was discovered by the energy of steam.",
+          "4":"James Watt had discovered energy by the steam."
+	},
+{                     
+		"quetn": "She makes cakes every Sunday.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"Every Sunday cakes made by her.",
+        "2":"Cakes are made by her every Sunday.",
+        "3":"Cakes make her every Sunday.",
+          "4":"Cakes were made by her every Sunday."
+	},
+{                     
+		"quetn": "She spoke to the official on duty.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"The official on duty was spoken to by her",
+        "2":"The official was spoken to by her on duty.",
+        "3":"She was spoken to by the official on duty.",
+          "4":"She was the official to be spoken to on duty."
+
+
+	}]
+}]

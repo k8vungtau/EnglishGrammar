@@ -1,0 +1,204 @@
+[{"Mainhd":"Complete the sentences with the correct question tags.", 
+"Sub":   
+
+     
+    [
+         {
+            "quetn": "He sometimes reads the newspaper,  ______",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"aren't you?",
+                "2":"doesn't he?",
+                "3":"is he?",
+		"4":"isn't he?"
+          
+
+
+
+
+        },{
+            "quetn": "	You are Indian, ______ ",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"hasn't she?",
+                "2":"aren't you?",
+                "3":"did she?",
+		"4":"won't they?"
+          
+
+
+
+
+        },{
+            "quetn": "They had a nice weekend,  ______",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"hasn't she?",
+                "2":"did she?",
+                "3":"didn't they?",
+		"4":"aren't you?"
+          
+
+
+
+
+        },{
+            "quetn": "Peggy didn't use the pencil, ______ ",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"aren't you?",
+                "2":"did she?",
+                "3":"hasn't she?",
+		"4":"won't they?"
+          
+
+
+
+
+        },{
+            "quetn": "Mary has answered the teacher's question,  ______ ",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"hasn't she?",
+                "2":"did she?",
+                "3":"won't they?",
+		"4":"aren't you?"
+          
+
+
+
+
+        },{
+            "quetn": "The boy is from Turkey, 	______ ",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"hasn't she?",
+                "2":"did he?",
+                "3":"isn't he?",
+		"4":"aren't you?"
+          
+
+
+
+
+        },{
+            "quetn": "	Sue wasn't listening, ______ ",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"hasn't she?",
+                "2":"was she?",
+                "3":"did she?",
+		"4":"won't they?"
+          
+
+
+
+
+        },{
+            "quetn": "Andrew isn't sleeping, ______ ",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"aren't you?",
+                "2":"hasn't she?",
+                "3":"did she?",
+		"4":"is he?"
+          
+
+
+
+
+        },{
+            "quetn": "Tom and Maria will arrive at Heathrow,  ______ ",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"hasn't she?",
+                "2":"did she?",
+                "3":"is he?",
+		"4":"won't they?"
+          
+
+
+
+
+        },{
+            "quetn": "She has a brother,  ______ ",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"doesn't she?",
+                "2":"did she?",
+                "3":"is she?",
+		"4":"aren't you?"
+          
+
+
+
+
+        },{
+            "quetn": "He's been to Texas, _____ ",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"aren't I?",
+                "2":"hasn't he?",
+                "3":"don't they?",
+		"4":"will you?"
+          
+
+
+
+
+        },{
+            "quetn": "Dogs like meat, _____ ",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"don't they?",
+                "2":"will you?",
+                "3":"hasn't he?",
+		"4":"will he?"
+          
+
+
+
+
+        },{
+            "quetn": "	There are some apples left, _____ ",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"don't they?",
+                "2":"hasn't he?",
+                "3":"will you?",
+		"4":"aren't there?"
+          
+
+
+
+
+        },{
+            "quetn": "I'm late, _____ ",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"aren't I?",
+                "2":"hasn't she?",
+                "3":"will you?",
+		"4":"don't they?"
+          
+
+
+
+
+        },{
+            "quetn": "	Let's go,  _____ ",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"will he?",
+                "2":"will you?",
+                "3":"shall we?",
+		"4":"aren't I?"
+          
+
+
+
+
+        }
+        ]
+}
+]

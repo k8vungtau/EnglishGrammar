@@ -1,0 +1,403 @@
+
+[
+
+{  "Mainhd":"Fill in the blanks with appropriate conjunctions.",
+
+
+  "Sub": 
+     
+    [
+         {
+            "quetn": "Receptionists must be able to relay information ______ pass messages accurately.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"or",
+                "2":"and",
+                "3":"but",
+		"4":"because"
+          
+
+
+
+
+        },{
+            "quetn": "	I did not go to the show ______ I had already seen it.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"untill",
+                "2":"because",
+                "3":"so",
+		"4":"but"
+          
+
+
+
+
+        },{
+            "quetn": "Mary is a member of the Historical Society ______ the Literary Society",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"as",
+                "2":"or",
+                "3":"and",
+		"4":"but"
+          
+
+
+
+
+        },{
+            "quetn": "Read over your answers ______ correct all mistakes before you pass them up",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"or",
+                "2":"and",
+                "3":"because",
+		"4":"while"
+          
+
+
+
+
+        },{
+            "quetn": "Keep the food covered ______ the flies will contaminate it.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"or",
+                "2":"and",
+                "3":"till",
+		"4":"though"
+          
+
+
+
+
+        },{
+            "quetn": "	______ he is thin, he is strong.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"but",
+                "2":"as",
+                "3":"though",
+		"4":"because"
+          
+
+
+
+
+        },{
+            "quetn": "	Susie ______ phoned ______ wrote after she left home.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"either,  or",
+                "2":"neither,  or",
+                "3":"while,  and",
+		"4":"though,  or"
+          
+
+
+
+
+        },{
+            "quetn": "She had an unpleasant experience ______ she was in Thailand.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"but",
+                "2":"and",
+                "3":"because",
+		"4":"while"
+          
+
+
+
+
+        },{
+            "quetn": "The committee rejected the proposal ______ they did not think it was practical.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"or",
+                "2":"but",
+                "3":"though",
+		"4":"because"
+          
+
+
+
+
+        },{
+            "quetn": "John welcomed his guests ______ offered them drinks.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"and",
+                "2":"while",
+                "3":"untill",
+		"4":"as"
+          
+
+
+
+
+        },{
+            "quetn": "These rooms are very comfortable _____ they have a good view of the city.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"also",
+                "2":"and",
+                "3":"still",
+		"4":"as"
+          
+
+
+
+
+        },{
+            "quetn": "_____ the teacher explained the lesson several times, some of the students still did not understand it.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"although",
+                "2":"even if",
+                "3":"unless",
+		"4":"since"
+          
+
+
+
+
+        },{
+            "quetn": "	He did not join us for the movie _____ he had already seen it.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"and",
+                "2":"but",
+                "3":"although",
+		"4":"because"
+          
+
+
+
+
+        },{
+            "quetn": "She could not find the book she wanted _____ she borrowed a magazine instead.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"so",
+                "2":"and",
+                "3":"but",
+		"4":"so that"
+          
+
+
+
+
+        },{
+            "quetn": "	I tried to make her realize the consequences _____ she refused to listen.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"lest",
+                "2":"since",
+                "3":"but",
+		"4":"also"
+          
+
+
+
+
+        },{
+            "quetn": "	He will show us around himself _____ send someone else.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"and",
+                "2":"if",
+                "3":"or",
+		"4":"so"
+          
+
+
+
+
+        },{
+            "quetn": "_____ he was not interested in music, he agreed to go to the concert.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"though",
+                "2":"while",
+                "3":"for",
+		"4":"since"
+          
+
+
+
+
+        },{
+            "quetn": "Those village folk are poor _____ they always seem so contented.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"though",
+                "2":"since",
+                "3":"yet",
+		"4":"or"
+          
+
+
+
+
+        },{
+            "quetn": "The river has overflowed his banks _____ it has been raining continuously for several days.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"still",
+                "2":"yet",
+                "3":"when",
+		"4":"as"
+          
+
+
+
+
+        },{
+            "quetn": "I don't think he will remember the appointment _____ you remind him.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"so",
+                "2":"if",
+                "3":"unless",
+		"4":"lest"
+          
+
+
+
+
+        },{
+            "quetn": "You treated him badly _____ he is doing the same to you now.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"so",
+                "2":"if",
+                "3":"but",
+		"4":"also"
+          
+
+
+
+
+        },{
+            "quetn": "He is sick ______ he wants to go out.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"when",
+                "2":"yet",
+                "3":"that",
+		"4":"because"
+          
+
+
+
+
+        },{
+            "quetn": "	______ there is no more butter you must use the margarine.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"so",
+                "2":"either",
+                "3":"since",
+		"4":"but"
+          
+
+
+
+
+        },{
+            "quetn": "Gerard, ______ Pete, is joining us on the trip.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"as well as",
+                "2":"nor",
+                "3":"whereas",
+		"4":"if"
+          
+
+
+
+
+        },{
+            "quetn": "She was afraid ______ the building would collapse.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"and",
+                "2":"while",
+                "3":"even though",
+		"4":"that"
+          
+
+
+
+
+        },{
+            "quetn": "They cannot watch television ______ the rest are studying.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"so that",
+                "2":"therefore",
+                "3":"while",
+		"4":"but"
+          
+
+
+
+
+        },{
+            "quetn": "His fans think that he is ______ talented ______ handsome.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"either ... or",
+                "2":"not only ... but also",
+                "3":"neither ... nor",
+		"4":"so ... that"
+          
+
+
+
+
+        },{
+            "quetn": "He phoned me ______ he needed someone to talk to.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"for",
+                "2":"but",
+                "3":"and",
+		"4":"so"
+          
+
+
+
+
+        },{
+            "quetn": "I spent some time with them ______ I was very busy.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"when",
+                "2":"and",
+                "3":"because",
+		"4":"althoug"
+          
+
+
+
+
+        },{
+            "quetn": "We saw some boats ______ we were walking along the beach.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"but",
+                "2":"so",
+                "3":"as",
+		"4":"if"
+          
+
+
+
+
+        }
+        ]
+}
+]

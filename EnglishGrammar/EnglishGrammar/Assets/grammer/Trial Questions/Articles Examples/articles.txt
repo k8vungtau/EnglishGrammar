@@ -1,0 +1,208 @@
+
+[
+
+{  "Mainhd":"Fill in the blanks with appropriate Articles.",
+
+
+  "Sub": 
+     
+    [
+         {
+            "quetn": "I like ______ blue T-shirt over there better than the red one.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "Their car does 150 miles ______ hour.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "Where's ______ USB drive I lent you last week?",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "Do you still live in ______ Bristol?",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "Is your mother working in ______ old office building?",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "Carol's father works as ______ electrician..",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "	The tomatoes are 99 pence ______ kilo.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "What do you usually have for ______ breakfast?",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "Ben has ______ terrible headache.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "After this tour you have ______ whole afternoon free to explore the city.
+",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "My grandmother likes ______ flowers very much.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "I love ______ flowers in your garden.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "	See you on ______ Wednesday.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "I always listen to ______ radio in the morning.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+
+
+
+
+        },{
+            "quetn": "	Don't be late for ______ school.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"a",
+                "2":"an",
+                "3":"the",
+		"4":"none"
+          
+
+
+
+
+        }
+        ]
+}
+]

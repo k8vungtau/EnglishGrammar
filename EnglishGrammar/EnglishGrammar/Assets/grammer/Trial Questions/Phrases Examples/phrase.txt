@@ -1,0 +1,159 @@
+[{"Mainhd":"Choose the correct word or phrase to complete the English grammar question.", 
+"Sub":   
+
+
+
+[
+	{                     
+		"quetn": "If she ___________ about his financial situation, she would have helped him out.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"knew",
+        "2":"had been knowing",
+        "3":"had known",
+          "4":"have known"
+	},
+	{
+         "quetn": "Are there ______ apples in the kitchen?",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"much",
+                "2":"any",
+                "3":"some",
+                "4":"a" 
+	},
+
+{
+         "quetn": "That is _____ interesting book.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"the",
+                "2":"a",
+                "3":"an",
+                "4":"none" 
+	},
+{
+         "quetn": "I'll ______________ their cat while they are away on holiday.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"be looking into ",
+                "2":"be looking at",
+                "3":"be looking after",
+                "4":"be looking over" 
+	},
+
+{
+         "quetn": "I went ______ church last Sunday.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"at",
+                "2":"in",
+                "3":"to",
+                "4":"on" 
+	},
+
+
+{
+         "quetn": "He made his children ______ their homework every afternoon.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"to do",
+                "3":"studied",
+                "4":"to study" 
+	},
+
+{
+         "quetn": "What _____ he like? - He is very friendly.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"does",
+                "2":"did",
+                "3":"is",
+                "4":"has" 
+	},
+
+{
+         "quetn": "I ________ a new car last month.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"bought",
+                "2":"have bought",
+                "3":"buyed",
+                "4":"did bought" 
+	},
+
+
+{
+         "quetn": "The test was ____ difficult she had problems finishing it on time.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"such",
+                "2":"a",
+                "3":"as",
+                "4":"so" 
+	},
+
+{
+         "quetn": "By the time she arrives, we ________________ our homework.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"finish",
+                "2":"will have finished",
+                "3":"will finish ",
+                "4":"were finished" 
+	},
+
+{
+         "quetn": "How ________ money do you have in your pocket?",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"many",
+                "2":"few",
+                "3":"much",
+                "4":"some" 
+	},
+{
+         "quetn": "She _________________ lunch by the time we arrived.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"had finished ",
+                "2":"finished ",
+                "3":"have finished ",
+                "4":"finishing" 
+	},
+{
+         "quetn": "The sun ______ at 9 last night.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"sat ",
+                "2":"setted ",
+                "3":"set",
+                "4":"was setting" 
+	},
+{
+         "quetn": "Despite ______________ hard, he failed the exam.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"he studied",
+                "2":"he has studied",
+                "3":"studying",
+                "4":"study" 
+	},
+
+{
+         "quetn": "When I stopped __________ to Mary, she was picking some flowers in her garden.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"spoke",
+                "2":"to speak",
+                "3":"speak ",
+                "4":"speaking " 
+	
+
+
+
+	}
+]
+}
+]

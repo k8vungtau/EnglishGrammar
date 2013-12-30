@@ -1,0 +1,335 @@
+
+[
+
+{  "Mainhd":"Select The Correct Noun From The Given Sentence.Submit the form using the SUBMIT APPLICATION button at the end of the exercise.Your score will be returned to you in a few seconds.",
+
+
+  "Sub":
+     
+    [
+         {
+            "quetn":"It will take all of your energy and will to be able to walk again.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"Take",
+                "2":"All",
+                "3":"Your",
+                "4":"Energy"
+          
+
+
+
+
+        },
+
+        {
+           "quetn":"The works of many great poets have been placed on reserve.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"Many",
+                "2":"Great",
+                "3":"Placed",
+                "4":"Reserve"
+
+
+
+
+        },
+        
+
+       {
+            "quetn":"The Brooklyn Bridge was opened in 1883.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"Bridge",
+                "2":"Was",
+                "3":"Opened",
+                "4":"In"
+          
+
+
+
+
+        },
+ {
+           "quetn":"Winter is very cold",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"Winter",
+                "2":"is",
+                "3":"very",
+                "4":"cold"
+
+
+
+
+        },
+{
+           "quetn":"The man was tall.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"Man",
+                "2":"was",
+                "3":"The",
+                "4":"tall"
+
+
+
+
+        },
+{
+           "quetn":"Close the gate.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"the",
+                "2":"Close",
+                "3":"gate",
+                "4":"non of this"
+
+
+
+
+        },
+{
+           "quetn":"The car moved fast.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"moved",
+                "2":"The",
+                "3":"fast",
+                "4":"car"
+
+
+
+
+        },
+{
+           "quetn":"School started early.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"School",
+                "2":"early",
+                "3":"started",
+                "4":"none"
+
+
+
+
+        },
+{
+           "quetn":"The doctor worked fast.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"doctor",
+                "2":"The",
+                "3":"worked",
+                "4":"fast"
+
+
+
+
+        },
+{
+           "quetn":"The girl was happy.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"girl",
+                "2":"The",
+                "3":"happy",
+                "4":"was"
+
+
+
+
+        },
+        
+
+
+        {
+           "quetn":"Sparta and Athens were enemies during the Peloponnesian War.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"And",
+                "2":"Were",
+                "3":"During",
+                "4":"War"
+
+
+
+        },
+
+
+        {
+           "quetn":"Sharks and lampreys are not true fish because their skeletons are made of cartilage rather than bone.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"True",
+                "2":"Because",
+                "3":"Their",
+                "4":"Bone"
+          
+
+
+
+
+        },
+
+
+
+        {
+            "quetn":"Joe, have you met your new boss?",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"Have",
+                "2":"Met",
+                "3":"Your",
+                "4":"Boss"
+
+
+
+
+        },
+
+
+
+        {
+           "quetn":"Sue's parents tried living in the north, but they could not adapt to the cold.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"North",
+                "2":"But",
+                "3":"Not",
+                "4":"Adapt"
+
+
+
+        },
+
+
+
+         {
+           "quetn":"Mastering basic mathematics is an important goal for younger students.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"Mastering",
+                "2":"Important",
+                "3":"Younger",
+                "4":"Students"
+        },
+{
+           "quetn":"The dog barked loudly",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"the",
+                "2":"dog",
+                "3":"barked",
+                "4":"loudly"
+
+
+
+
+        },
+        
+
+       {
+                "quetn":"To seize a foreign embassy and its inhabitants is flagrant disregard for diplomatic neutrality.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"Seize",
+                "2":"Its",
+                "3":"Flagrant",
+                "4":"Neutrality"
+          
+
+
+
+
+        },
+
+
+
+
+        {
+            "quetn":"The Trojans' rash decision to accept the wooden horse led to their destruction.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"Their",
+                "2":"Led",
+                "3":"Accept",
+                "4":"Destruction"
+          
+
+      }
+  
+    ]
+},
+
+{  "Mainhd":"Answer the Questions",
+
+
+  "Sub":
+     
+    [
+         {
+            "quetn":"Which words are abstract nouns?",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"red, quick, sporty",
+                "2":"sadness, fear, loyalty",
+                "3":"paintbrush, art, beauty",
+                "4":"fun, sports, beach"
+          
+
+
+
+
+        },
+
+        
+
+       {
+            "quetn":"What is a collective noun?",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"Any person, place, thing or idea",
+                "2":"A specific person, place, thing, or idea",
+                "3":"A noun that can be touched",
+                "4":"A noun that names a group of persons, animals, places, or things"
+          
+
+
+
+
+        },
+
+
+
+        {
+           "quetn":"Which are examples of nouns?",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"swim, dance, study, erase",
+                "2":"above, below, behind, under",
+                "3":"blue, large, beautiful, smart",
+                "4":"uncle, kitchen, apple, respect"
+
+
+
+        },
+
+  {
+           "quetn":"In which sentence are all common and proper nouns written correctly?",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"Last month mom visited Aunt Caroline.",
+                "2":"We took her to O'Hare Airport on Memorial Day.",
+                "3":"My Aunt lives in a small town in Texas.",
+                "4":"She swims at a beach along the Gulf Of Mexico."
+          
+
+         
+       }
+]
+}
+]
+   

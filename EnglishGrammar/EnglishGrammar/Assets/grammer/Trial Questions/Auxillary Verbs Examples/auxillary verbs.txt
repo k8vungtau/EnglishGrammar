@@ -1,0 +1,205 @@
+
+[
+
+{  "Mainhd":"Fill in the blanks with appropriate Auxillary Verbs.",
+
+
+  "Sub": 
+     
+    [
+         {
+            "quetn": "What ______ the children wear at your school?",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "Where ______ the Masons buy their fruit?",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "______ the cat like to sleep on the sofa?",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"does",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "______ the boys play cricket outside?",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+
+
+
+
+        },{
+            "quetn": "Jack ______ fun at the party last Saturday.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "I'm sorry, but I ______ to go now.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "	______ you ever been to Canada?",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "Can we ______ the bill, please?",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "The match ______ already started when we arrived.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "Do you ______ a brother?",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "Dave ______ passed his driving test.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "My boss never ______ time.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+
+
+
+
+        },{
+            "quetn": "	Doris ______ been waiting for Pam for 20 minutes now.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        },{
+            "quetn": "I ______ had this computer for three years.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+
+
+
+
+        },{
+            "quetn": "Lisa ______ been singing for 10 minutes now.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"do",
+                "2":"has",
+                "3":"had",
+		"4":"have"
+          
+
+
+
+
+        }
+        ]
+}
+]

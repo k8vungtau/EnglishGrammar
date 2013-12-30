@@ -1,0 +1,169 @@
+[{"Mainhd":"Each question consist of two words which have a certain relationship to each other followed by four pairs of related words, Select the pair which has the same relationship.", 
+"Sub":   
+
+
+
+[
+	{                     
+		"quetn": "DIVA:OPERA",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"producer:theatre",
+                "2":"director:drama",
+                "3":"conductor:bus",
+                "4":"thespian:play"
+	},
+{                     
+		"quetn": "GRAIN:SALT",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"shard:pottery",
+        "2":"shred:wood",
+        "3":"blades:grass",
+          "4":"chip:glass"
+	},
+{                     
+		"quetn": "THRUST:SPEAR",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"mangle:iron",
+        "2":"scabbard:sword",
+        "3":"bow:arrow",
+          "4":"fence:epee"
+	},
+{                     
+		"quetn": "PAIN:SEDATIVE",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"comfort:stimulant",
+        "2":"grief:consolation",
+        "3":"trance:narcotic",
+          "4":"ache:extraction"
+	},
+{                     
+		"quetn": "LIGHT:BLIND",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"speech:dumb",
+        "2":"language:deaf",
+        "3":"tongue:sound",
+          "4":"voice:vibration"
+	},
+{                     
+		"quetn": "WAN:COLOUR",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"corpulent:weight",
+        "2":"insipid:flavour",
+        "3":"pallid:complexion",
+          "4":"enigmatic:puzzle"
+	},
+{                     
+		"quetn": "PORK:PIG",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"rooster:chicken",
+        "2":"mutton:sheep",
+        "3":"steer:beef",
+          "4":"lobster:crustacean"
+	},
+{                     
+		"quetn": "AFTER:BEFORE",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"first:second",
+        "2":"present:past",
+        "3":"contemporary:historic",
+          "4":"successor:predecessor"
+	},
+{                     
+		"quetn": "INDIGENT:WEALTHY",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"first:second",
+        "2":"native:affluent",
+        "3":"gauche:graceful",
+          "4":"scholarly:erudite"
+	},
+{                     
+		"quetn": "DISTANCE:MILE",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"first:second",
+        "2":"bushel:corn",
+        "3":"weight:scale",
+          "4":"fame:television"
+	},
+{                     
+		"quetn": "TEN:DECIMAL",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"seven:septet",
+        "2":"four:quartet",
+        "3":"two:binary",
+          "4":"five:quince"
+	},
+{                     
+		"quetn": "MUNDANE:SPIRITUAL",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"common:ghostly",
+        "2":"worldly:unworldly",
+        "3":"routine:novel",
+          "4":"secular:clerical"
+	},
+{                     
+		"quetn": "ARMY:LOGISTICS",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"business:strategy",
+        "2":"soldier:students",
+        "3":"war:logic",
+          "4":"team:individual"
+	},
+{                     
+		"quetn": "GRAVITY:PULL",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"iron:metal",
+        "2":"north pole:directions",
+        "3":"magnetism:attraction",
+          "4":"dust:desert"
+	},
+{                     
+		"quetn": "FILTER:WATER",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"curtail:activity",
+        "2":"expunge:book",
+        "3":"edit:text",
+          "4":"censor:play"
+	},
+{                     
+		"quetn": "HOPE:ASPIRES",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"love:elevates",
+        "2":"film:flam",
+        "3":"fib:lie",
+          "4":"fake:ordinary"
+	},
+{                     
+		"quetn": "CORPOREAL:SPIRITUAL",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"mesa:plateau",
+        "2":"moron:savant",
+        "3":"foreigner:immigrant",
+          "4":"pedagogue:teacher"
+	},
+{                     
+		"quetn": "SYMPHONY:COMPOSER",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"	Leonardo:music",
+        "2":"Fresco:painter",
+        "3":"colours:pallet",
+          "4":"art:appreciation"
+	}]
+}]

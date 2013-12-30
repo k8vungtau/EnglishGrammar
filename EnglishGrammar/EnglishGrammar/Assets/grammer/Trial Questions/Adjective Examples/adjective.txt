@@ -1,0 +1,139 @@
+[{"Mainhd":"Choose the appropriate adjective to complete the sentence.", 
+"Sub": 
+[
+	{                     
+		"quetn": "He_______reads a book",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"fast",
+        "2":"quick",
+        "3":"slow",
+          "4":"quickly"
+	},
+
+        { "quetn": "Elephent_______walks a distance",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"slowly",
+        "2":"quick",
+        "3":"slow",
+          "4":"quickly"
+        },
+        { "quetn": "This house is _______than that one",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"bigger",
+        "2":"big",
+        "3":"biggest",
+          "4":"large"
+        },
+        { "quetn": "This glass is _______.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"breakable",
+        "2":"break",
+        "3":"breaking",
+          "4":"broken"
+        },
+         { "quetn": "Non-smokers usually live________than smokers.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"long",
+        "2":"longer",
+        "3":"longest",
+          "4":"None of these"
+        },
+         { "quetn": "It is strange but often a coke is________than a beer.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"expensive",
+        "2":"expenses",
+        "3":"more expensive",
+          "4":"None of these"
+        },
+        
+        { "quetn": "The weather this summer is even________than last summer.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"bad",
+        "2":"worse",
+        "3":"worst",
+          "4":"None of these"
+        },
+       { "quetn": "A holiday by the sea is________than a holiday in the mountains.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"good",
+        "2":"better",
+        "3":"worst",
+          "4":"None of these"
+        },
+        { "quetn": "This is the________book I have ever read.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"interesting",
+        "2":"most ineresting",
+        "3":"interested",
+          "4":"None of these"
+        },
+         {"quetn": "He was a very________person.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"sense",
+        "2":"sensible",
+        "3":"sensibly",
+          "4":"None of these"
+         }, 
+           {"quetn": "He did not pass the course as_________as he thought he would.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"easy",
+        "2":"easily",
+        "3":"ease",
+          "4":"None of these"
+         }, 
+         {"quetn": "He was the________thief of all..",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"cleverest",
+        "2":"clever",
+        "3":"wise",
+          "4":"None of these"
+         }
+]
+},
+{"Mainhd":"Choose the right possessive adjective to complete the sentence.", 
+"Sub": 
+[ 
+       {"quetn": "Two students didn't do________mathematics homework.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"my",
+        "2":"your",
+        "3":"his",
+          "4":"their"
+        },
+        {"quetn": "Mary likes________grandmother. She often visits her.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"her",
+        "2":"their",
+        "3":"his",
+          "4":"None of these"
+        }, 
+      {"quetn": "I went to school this morning, but I didn't learn anything. It was just_________",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"time to go",
+        "2":"time out",
+        "3":"a waste of time",
+          "4":"None of these"
+        }
+]
+      
+
+}
+]
+         
+        
+

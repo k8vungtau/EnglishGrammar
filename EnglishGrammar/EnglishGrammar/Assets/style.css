@@ -1,0 +1,21 @@
+p
+{
+text-align:justify;
+text-justify:inter-word;
+} 
+table
+{
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a7c7dc), color-stop(100%,#85b2d3)); 
+background: -webkit-linear-gradient(top, #a7c7dc 0%,#85b2d3 100%);
+margin-left: auto;
+margin-right: auto; 
+}
+body
+{
+background-image: url('file:///android_asset/pot.jpg');
+}
+
+td{
+background-color:wheat;
+text-align: center;
+}

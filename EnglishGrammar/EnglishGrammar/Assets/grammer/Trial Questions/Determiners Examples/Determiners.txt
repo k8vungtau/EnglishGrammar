@@ -1,0 +1,185 @@
+[{"Mainhd":"Choose the correct option from the following.", 
+"Sub":   
+
+
+
+[
+	{                     
+		"quetn": "______ your mates like Chinese cousin, don't they?",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"Some",
+        "2":"Some of",
+        "3":"Several",
+          "4":"None of the above"
+	},
+
+{                     
+		"quetn": "We've been living here for ______ years.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":" many",
+        "2":"a lot of",
+        "3":"much",
+          "4":"None of the above"
+	},
+
+ {                     
+		"quetn": " I was in Italy for ______ years.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":" few",
+        "2":"a few",
+        "3":"a lot of",
+          "4":"None of the above"
+	},
+    {                     
+		"quetn": " ______ the students passed the exam.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"No",
+        "2":"None",
+        "3":"None of",
+          "4":"None of the above"
+	},
+
+ {                     
+		"quetn": "Have you watched ______ these films?",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"any of",
+        "2":"some of",
+        "3":"any",
+          "4":"None of the above"
+	},
+
+ {                     
+		"quetn": "Kate thinks that ______ people are evil.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"all of",
+        "2":"all",
+        "3":"the whole",
+          "4":"None of the above"
+	},
+
+    {                     
+		"quetn": "Slow down, we have ______ time.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"a few",
+        "2":"plenty of",
+        "3":"lot of",
+          "4":"None of the above"
+	},
+
+{                     
+		"quetn": "I had ______ friends in Cracow so I moved to Warsaw.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"None",
+        "2":"a few",
+        "3":"few",
+          "4":"None of the above"
+	},
+    
+    {                     
+		"quetn": " The concert wasn't popular. Only ______ people came.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"few",
+        "2":"a few",
+        "3":"a little",
+          "4":"None of the above"
+	},
+    {                     
+		"quetn":"We spent ______ money during our stay in Spain.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"a lot of",
+        "2":"many",
+        "3":"all of",
+          "4":"None of the above"
+	},
+   {                     
+		"quetn":"We arrived late so ______ us were tired.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"all of",
+        "2":"None of",
+        "3":"few of",
+          "4":"None of the above"
+	},
+{                     
+		"quetn":"Did it cost ______ to buy such a nice car?",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"many",
+        "2":"much",
+        "3":"a lot of",
+          "4":"None of the above"
+	},
+
+  {                     
+		"quetn":"______ people think that the world is getting worse.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"Lot of",
+        "2":"Most of",
+        "3":"Many",
+          "4":"None of the above"
+	},  
+
+
+    {                     
+		"quetn":"The room was extremely tiny. There was ______ space to move.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"little",
+        "2":"a little",
+        "3":"some",
+          "4":"None of the above"
+	},  
+ {                     
+		"quetn":"I met Kate yesterday. Fortunately, we had ______ time to talk to.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"few",
+        "2":"a little",
+        "3":"little",
+          "4":"None of the above"
+	}  
+]
+}
+]
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+
+    
+    
+    
+
+   
+
+    
+    
+    
+    
+    
+
+    
+    
+    
+    

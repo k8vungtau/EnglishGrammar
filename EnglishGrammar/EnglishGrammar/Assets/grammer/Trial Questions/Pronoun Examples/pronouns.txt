@@ -1,0 +1,142 @@
+[{"Mainhd":"Choose the appropriate pronoun to complete the sentence.", 
+"Sub": 
+[
+	{                     
+		"quetn": "If anyone calls, tell ____________ that I'll be back in half an hour.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"his/her",
+        "2":"him/her",
+        "3":"them",
+          "4":"None of these"
+	},
+      {                     
+		"quetn": "Be sure that everyone brings ____________ own book.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"his/her",
+        "2":"him/her",
+        "3":"them",
+          "4":"None of these"
+	},
+       {                     
+		"quetn": " Joe and ____________ have been close friends for many years.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"me",
+        "2":"i",
+        "3":"you",
+          "4":"None of these"
+	},
+       {                     
+		"quetn": "Did you see Derek and ____________ at the game? ",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"me",
+        "2":"her",
+        "3":"she",
+          "4":"None of these"
+	},
+        {                     
+		"quetn": "Between you and ____________ ,this politician cannot be trusted.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"me",
+        "2":"her",
+        "3":"she",
+          "4":"None of these"
+	},
+       {                     
+		"quetn": "Each person in the room turned ____________ head to the front when the teacher entered.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"their",
+        "2":"her",
+        "3":"his",
+          "4":"None of these"
+	},
+         {                     
+		"quetn": " We know that we can count on James, Anne, and ____________ .",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"their",
+        "2":"her",
+        "3":"his",
+          "4":"None of these"
+	},
+       {                     
+		"quetn":"Rhonda explained that ____________ and her sister had often eaten at that restaurant.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"she",
+        "2":"her",
+        "3":"his",
+          "4":"None of these"
+	},
+       {                     
+		"quetn":" The children in that neighborhood often ride ____________ bikes through the park.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"their",
+        "2":"her",
+        "3":"his",
+          "4":"None of these"
+	},
+         {                     
+		"quetn":"When I meet new people, I'm usually curious about ____________ occupations.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"their",
+        "2":"them",
+        "3":"his/her",
+          "4":"None of these"
+	},
+       {                     
+		"quetn":"Everyone who purchased one of the paintings ____________ pleased.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"was",
+        "2":"were",
+        "3":"there",
+          "4":"None of these"
+	},
+         {                     
+		"quetn":"Few of the suggestions ____________ reasonable to me. ",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"sound",
+        "2":"sounds",
+        "3":"is",
+          "4":"None of these"
+	},
+       {                     
+		"quetn":"Christopher and ____________ want to travel to the Far East some day. ",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"i",
+        "2":"his/her",
+        "3":"him",
+          "4":"None of these"
+	},
+       {                     
+		"quetn":"The cost of the repairs shocked both my brother and ____________ . ",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"i",
+        "2":"his/her",
+        "3":"me",
+          "4":"None of these"
+	}, 
+         {                     
+		"quetn":" Most of the congestion on the highway ____________ caused by an overturned truck.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"was",
+        "2":"were",
+        "3":"is",
+          "4":"None of these"
+	},
+
+]
+}
+]

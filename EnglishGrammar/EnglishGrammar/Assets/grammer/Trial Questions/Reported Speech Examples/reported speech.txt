@@ -1,0 +1,144 @@
+[{"Mainhd":"Choose the correct reported speech version of each statement. Each question has only one correct answer.", 
+"Sub":   
+
+
+
+[
+	{                     
+		"quetn": "Tom said, 'I want to visit my friends this weekend.'",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"Tom said he wants to visit his friends that weekend.",
+        "2":"Tom said he wanted to visit his friends that weekend.",
+        "3":"Tom said he wanted to visit his friends this weekend.",
+          "4":"None of these."
+	},
+	{                     
+		"quetn": "Jerry said, 'I'm studying English a lot at the moment.'",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"Jerry said he was studying English a lot at that moment.",
+        "2":"Jerry said he was studying English a lot at the moment.",
+        "3":"Jerry said I was studying English a lot at that moment.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "They said, 'We've lived here for a long time.'",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"They said they have lived there for a long time.",
+        "2":"They said they lived here for a long time.",
+        "3":"They said they had lived there for a long time.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "He asked me, 'Have you finished reading the newspaper?'",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"He asked me if had I finished reading the newspaper.",
+        "2":"He asked me if I had finished reading the newspaper.",
+        "3":"He asked me if I finished reading the newspaper.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "'I get up every morning at seven o'clock.', Peter said.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"Peter said he got up every morning at seven o'clock.",
+        "2":"Peter said I got up every morning at seven o'clock.",
+        "3":"Peter said he had got up every morning at seven o'clock.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "Susan reassured me, 'I can come tonight.'",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"Susan told me I could come that night.",
+        "2":"Susan told me she could come that night.",
+        "3":"Susan told me she could come tomorrow evening.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "She said, 'I really wish I had bought that new car.'",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"She told me she really wished she bought that new car.",
+        "2":"She told me she really had wished she had bought that new car.",
+        "3":"She told me she really wished she had bought that new car.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "Jack said, 'He must be guilty!'",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"Jack said he must have been guilty.",
+        "2":"Jack said he must have be guilty.",
+        "3":"Jack said he must has been guilty.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "Cheryl asked her, 'How long have you lived here?'",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"Cheryl asked her how long she has lived there.",
+        "2":"Cheryl asked her how long she lived there.",
+        "3":"Cheryl asked her how long she had lived there.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "He said, 'I must get going. Otherwise, I'm going to be late.'",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"He told me he had to get going. Otherwise, he was going to be late.",
+        "2":"He told me he had to get going. Otherwise, I was going to be late.",
+        "3":"He told me he has to get going. Otherwise, he was going to be late.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "She said, 'I've worked here since I left my last job.'.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"She told me that she worked there since she had left her last job.",
+        "2":"She told me that she had worked there since she had left her last job.",
+        "3":"She told me that she had worked there since she left her last job.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "You said, 'I will help you!'",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"You said you would help me!",
+        "2":"You said I would help you!",
+        "3":"You said you would help her!",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "She asked me, 'When are we going to leave?'",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"She asked me when she was going to leave.",
+        "2":"She asked me when we were going to leave.",
+        "3":"She asked me when we are going to leave.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "Peter said, 'I may bring someone with me to the party.'",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"Peter said he might bring someone with him to the party.",
+        "2":"Peter said he might have brought someone with him to the party.",
+        "3":"Peter said he might bring someone with her to the party.",
+          "4":"None of these."
+	},
+{                     
+		"quetn": "Mark asked me, 'Why do you want to study Russian?'",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"Mark asked her why I wanted to study Russian.",
+        "2":"Mark asked me why did I want to study Russian.",
+        "3":"Mark asked me why I wanted to study Russian.",
+          "4":"None of these."
+
+
+	}]
+}]

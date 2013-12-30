@@ -1,0 +1,97 @@
+
+[
+
+{  "Mainhd":"Fill In The Blanks With Appropriate Tenses. Submit the form using the SUBMIT APPLICATION button at the end of the exercise
+.Your score will be returned to you in a few seconds.",
+
+
+  "Sub":
+     
+    [
+         {
+            "quetn": "Despite his best efforts to conceal his anger .......",
+		"Answr":"5",
+		"optns":"1,2,3,4,5",
+		"1":"we could detect that he was very happy",
+                "2":"he failed to give us an impression of his agony",
+                "3":"he succeeded in camouflaging his emotions",
+                "4":"he could succeed in doing it easily",
+                "5":"people came to know that he was annoyed"
+          
+
+
+
+
+        },
+
+        {
+            "quetn": "Even if it rains I shall come means ......",
+		"Answr":"3",
+		"optns":"1,2,3,4,5",
+		"1":"if I come it will not rain",
+                "2":"if it rains I shall not come",
+                "3":"I will certainly come whether it rains or not",
+                "4":"whenever there is rain I shall come",
+                "5":"I am less likely to come if it rains"
+          
+
+
+
+
+        },
+        
+
+       {
+           "quetn": "His appearance is unsmiling but ......",
+		"Answr":"1",
+		"optns":"1,2,3,4,5",
+		"1":"his heart is full of compassion for others",
+                "2":"he looks very serious on most occasions",
+                "3":"people are afraid of him",
+                "4":"he is uncompromising on matters of task performance",
+                "5":"he is full of jealousy towards his colleagues"
+          
+
+
+
+
+        },
+
+
+
+        {
+            "quetn": "She never visits any zoo because she is strong opponent of the idea of ......",
+		"Answr":"5",
+		"optns":"1,2,3,4,5",
+		"1":"setting the animals free into forest",
+                "2":"feeding the animals while others are watching",
+                "3":"watching the animals in their natural abode",
+                "4":"going out of the house on a holiday",
+                "5":"holding the animals in captivity for our joy"
+          
+
+
+
+
+        },
+
+
+        {
+           "quetn": "I felt somewhat more relaxed ......",
+		"Answr":"4",
+		"optns":"1,2,3,4,5",
+		"1":"but tense as compared to earlier",
+                "2":"and tense as compared to earlier",
+                "3":"as there was already no tension at all",
+                "4":"and tension-free as compared to earlier",
+                "5":"because the worry had already captured by mind"
+          
+
+
+
+
+        
+        }
+        ]
+}
+]

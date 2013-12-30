@@ -1,0 +1,204 @@
+[{"Mainhd":"Write relative clauses using the relative pronoun.", 
+"Sub":   
+
+     
+    [
+         {
+            "quetn": "I talked to the girl   ______  car had broken down in front of the shop.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"which ",
+                "2":"whose",
+                "3":"none",
+		"4":"who"
+          
+
+
+
+
+        },{
+            "quetn": "	Mr Richards,  ______   is a taxi driver, lives on the corner.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"which ",
+                "2":"who",
+                "3":"whose",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "We often visit our aunt in Norwich   ______  is in East Anglia.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"whose",
+                "2":"who",
+                "3":"which ",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "This is the girl  ______   comes from Spain.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"which ",
+                "2":"who",
+                "3":"whose",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "That's Peter, the boy   ______  has just arrived at the airport.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"who",
+                "2":"none",
+                "3":"whose",
+		"4":"which "
+          
+
+
+
+
+        },{
+            "quetn": "Thank you very much for your e-mail  ______   was very interesting. ",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"whose",
+                "2":"who",
+                "3":"which ",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "The man,  ______  father is a professor, forgot his umbrella.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"which ",
+                "2":"whose",
+                "3":"who",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "The children, _____  shouted in the street, are not from our school.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"whose",
+                "2":"which ",
+                "3":"none",
+		"4":"who"
+          
+
+
+
+
+        },{
+            "quetn": "The car, _____ driver is a young man, is from Ireland. ",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"none",
+                "2":"which ",
+                "3":"who",
+		"4":"whose"
+          
+
+
+
+
+        },{
+            "quetn": "What did you do with the money _____ your mother lent you? ",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"which ",
+                "2":"whose",
+                "3":"who",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "This is the boy  _____ had an accident.",
+		"Answr":"2",
+		"optns":"1,2,3,4",
+		"1":"which",
+                "2":"who",
+                "3":"none",
+		"4":"whose"
+          
+
+
+
+
+        },{
+            "quetn": "Yesterday I saw a car _____  was really old.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"which",
+                "2":"none",
+                "3":"whose",
+		"4":"who"
+          
+
+
+
+
+        },{
+            "quetn": "The robber stole the car  _____ the lady parked in front of the supermarket.",
+		"Answr":"4",
+		"optns":"1,2,3,4",
+		"1":"whose",
+                "2":"who",
+                "3":"which",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "I haven't seen Frank, _____  brother is five, for a long time now.",
+		"Answr":"1",
+		"optns":"1,2,3,4",
+		"1":"whose",
+                "2":"who",
+                "3":"which",
+		"4":"none"
+          
+
+
+
+
+        },{
+            "quetn": "Bill Clinton,  _____  was President of the USA, has only one daughter.",
+		"Answr":"3",
+		"optns":"1,2,3,4",
+		"1":"whose",
+                "2":"which",
+                "3":"who",
+		"4":"none"
+          
+
+
+
+
+        }
+        ]
+}
+]

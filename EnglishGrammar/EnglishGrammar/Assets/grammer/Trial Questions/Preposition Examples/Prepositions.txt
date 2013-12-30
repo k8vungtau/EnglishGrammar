@@ -1,0 +1,173 @@
+[
+{
+"Mainhd":"Fill In The Blank With Appropriate Propositions.",
+"Sub":
+   
+
+       [
+         {"quetn":"The picture is ____ the wall.",
+		"Answr":"3",
+		"optns":"1,2,3",
+		"1":"in",
+                "2":"under",
+                "3":"on"       
+                   
+           },
+          {"quetn":"The desks are ____ the blackboard in the classroom.",
+		"Answr":"1",
+		"optns":"1,2,3",
+		"1":"opposite",
+                "2":"between",
+                "3":"above"       
+                   
+           },
+           {"quetn":"The cat always sleeps ____ my bed.",
+		"Answr":"1",
+		"optns":"1,2,3",
+		"1":"under",
+                "2":"above",
+                "3":"between"       
+                   
+           },
+           {"quetn":"The lamp is ____ the table.",
+		"Answr":"2",
+		"optns":"1,2,3",
+		"1":"in",
+                "2":"above",
+                "3":"on"       
+                   
+           },
+           {"quetn":"The book is ____ the mug and the pen.",
+		"Answr":"2",
+		"optns":"1,2,3",
+		"1":"in",
+                "2":"between",
+                "3":"on"       
+                   
+           },
+         {"quetn":"There is a bench ____ my house.",
+		"Answr":"3",
+		"optns":"1,2,3",
+		"1":"under",
+                "2":"on",
+                "3":"in front of"       
+                   
+           },
+             {"quetn":"There are apple trees ____ the house.",
+		"Answr":"1",
+		"optns":"1,2,3",
+		"1":"behind",
+                "2":"in",
+                "3":"on"       
+                   
+           },
+            {"quetn":"The bookshop is ____ the bank.",
+		"Answr":"3",
+		"optns":"1,2,3",
+		"1":"between",
+                "2":"above",
+                "3":"next to"       
+                   
+           },
+           {"quetn":"There is a museum ____ the school.",
+		"Answr":"2",
+		"optns":"1,2,3",
+		"1":"in",
+                "2":"opposite",
+                "3":"under"       
+                   
+           },
+             {"quetn":"There is a bed ____ my room.",
+		"Answr":"1",
+		"optns":"1,2,3",
+		"1":"in",
+                "2":"on",
+                "3":"under"       
+                   
+           },
+
+             {"quetn":" The mouse is ____ the cats.",
+		"Answr":"2",
+		"optns":"1,2,3",
+		"1":"on",
+                "2":"between",
+                "3":"above"       
+                   
+           },
+             {"quetn":"The pillow is ____ the blanket.",
+		"Answr":"3",
+		"optns":"1,2,3",
+		"1":"in",
+                "2":"between",
+                "3":"under"       
+                   
+           },
+          {"quetn":"The books are ____ my schoolbag.",
+		"Answr":"2",
+		"optns":"1,2,3",
+		"1":"above",
+                "2":"in",
+                "3":"between"       
+                   
+           },
+                 {"quetn":" You sit ____ me in the classroom.",
+		"Answr":"3",
+		"optns":"1,2,3",
+		"1":"between",
+                "2":"on",
+                "3":"in front of"       
+                   
+           },
+          {"quetn":" My mother’s plant is ____ the TV.",
+		"Answr":"1",
+		"optns":"1,2,3",
+		"1":"above",
+                "2":"in",
+                "3":"in front of"       
+                   
+           },
+              {"quetn":"Mike often hides ____ that tree.",
+		"Answr":"3",
+		"optns":"1,2,3",
+		"1":"in",
+                "2":"above",
+                "3":"behind"       
+                   
+           },
+            {"quetn":"The computer is ____ the telephone.",
+		"Answr":"2",
+		"optns":"1,2,3",
+		"1":"under",
+                "2":"next to",
+                "3":"between"       
+                   
+           },
+            {"quetn":"Sam usually sits ____ this chair.",
+		"Answr":"1",
+		"optns":"1,2,3",
+		"1":"on",
+                "2":"in",
+                "3":"above"       
+                   
+           },
+             {"quetn":" Mary sometimes sits ____ John and Jill.",
+		"Answr":"1",
+		"optns":"1,2,3",
+		"1":"between",
+                "2":"on",
+                "3":"in front of"       
+                   
+           },
+             {"quetn":"The books are ____ the shelf.",
+		"Answr":"3",
+		"optns":"1,2,3",
+		"1":"in",
+                "2":"next to",
+                "3":"on"       
+                   
+           }
+]
+}
+]
+
+
